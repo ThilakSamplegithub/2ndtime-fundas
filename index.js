@@ -1,0 +1,5 @@
+const {add,mul,div,sub}=require("./mods")
+add(1,4)
+mul(3,6)
+div(7,3)
+sub(5,3)
